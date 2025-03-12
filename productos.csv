@@ -2,3 +2,6 @@ eliminado,fecha_creacion,id,tipo_impuesto_id,nombre,codigo
 true,2025-03-11T22:43:51.311,1,1,Aceta,001
 true,2025-03-12T07:56:02.401,2,1,Electrolit,002
 false,2025-03-12T10:04:39.857,3,2,Mareol ,7 702132 004484
+true,2025-03-12T11:17:23.875,4,2,Acetaminufen,7706569020659
+false,2025-03-12T12:48:13.281,5,2,Azitromicina- ag-  3 tabletas- 500mg- ,7706569001245
+false,2025-03-12T13:08:39.931,6,2,Acetaminufen- ag- caja por 100 tabletas,7 706569020659
