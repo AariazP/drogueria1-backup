@@ -64,3 +64,10 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 48,false,473.0,1000.0,63,52,BLISTER
 2,false,3000.0,6000.0,64,53,CAJA
 3,false,6000.0,11900.0,65,54,CAJA
+3,false,2500.0,6000.0,66,55,CAJA
+4,false,5000.0,13000.0,67,56,CAJA
+1,false,6000.0,15000.0,68,57,CAJA
+3,false,7000.0,27000.0,69,58,CAJA
+2,false,3000.0,8500.0,70,59,CAJA
+2,false,3000.0,8500.0,71,60,CAJA
+1,false,3000.0,8500.0,72,61,CAJA
