@@ -1,2 +1,2 @@
 eliminado,id,fecha_creacion,cedula,nombre,correo,direccion
-false,1,2025-03-12T06:39:07.246,1111,juan,juan@gmail.com,Armenia
+true,1,2025-03-12T06:39:07.246,1111,juan,juan@gmail.com,Armenia
