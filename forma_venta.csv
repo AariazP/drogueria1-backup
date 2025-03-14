@@ -1,5 +1,5 @@
 cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
-8,false,1000.0,2000.0,1,1,SELLO
+9,false,1000.0,2000.0,1,1,SELLO
 12,false,10000.0,12000.0,2,2,Botella
 2,false,50000.0,60000.0,3,2,Six pack 
 1,false,46750.0,72000.0,4,3,CAJA
