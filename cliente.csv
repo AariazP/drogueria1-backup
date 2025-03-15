@@ -1,2 +1,4 @@
 eliminado,id,fecha_creacion,cedula,nombre,correo,direccion
 true,1,2025-03-12T06:39:07.246,1111,juan,juan@gmail.com,Armenia
+true,2,2025-03-15T12:08:25.220,1111111,CONSUMIDOR FINAL,consumidor@final.com,ARMENIA
+false,3,2025-03-15T12:12:19.187,1X,CONSUMIDOR FINAL,consumidor@final.com,ARMENIA
