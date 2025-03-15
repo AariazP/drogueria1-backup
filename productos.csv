@@ -4,7 +4,7 @@ true,2025-03-12T07:56:02.401,2,1,Electrolit,002
 false,2025-03-12T10:04:39.857,3,2,Mareol ,7 702132 004484
 true,2025-03-12T11:17:23.875,4,2,Acetaminufen,7706569020659
 false,2025-03-12T12:48:13.281,5,2,Azitromicina 500 MG X  3 tabletas - AG,7706569001245
-false,2025-03-12T13:08:39.931,6,2,Acetaminufen- ag- caja por 100 tabletas,7 706569020659
+false,2025-03-12T13:08:39.931,6,2,Acetaminofen- ag- caja por 100 tabletas,7 706569020659
 false,2025-03-12T13:56:53.305,7,1,Talco mexsana - x 85g,2204
 false,2025-03-12T14:01:41.685,8,1,Talco lady mexsana  -x 85g,7702123012870
 false,2025-03-12T14:05:11.190,9,1,Talco powder fresh women  x 85g,7709990468151
@@ -47,7 +47,7 @@ false,2025-03-12T15:53:54.376,45,1,Sobre color 1- castaño oscuro 15 ml- interbe
 false,2025-03-12T15:56:23.705,46,1,Vitafer jarabe x 500 ml -naturalme,7707816989873
 false,2025-03-12T16:01:46.624,47,2,Ainedix 100 mg - x 10 tabletas - laboquifar,7707019469059
 false,2025-03-12T16:05:02.755,48,2,Albendazol caja 200 mg x 2 tabletas - coaspharma,7703712033405
-false,2025-03-12T16:16:52.382,49,2,Acetaminufen+ codeina-325/30 x 30 tabletas- ag,7706569022912
+false,2025-03-12T16:16:52.382,49,2,Acetaminofen+ codeina-325/30 x 30 tabletas- ag,7706569022912
 false,2025-03-12T16:22:30.482,50,2,Albendazol caja 200 mg - x  25 blister - laproff,7703038050056
 false,2025-03-12T16:28:04.855,51,2,Albendazol suspension 20 ml -laproff,7703038060994
 false,2025-03-12T16:33:22.111,52,2,Acetaminofen 500 mg- x 30 blister- coaspharma,7703712035362
@@ -241,3 +241,17 @@ false,2025-03-15T10:50:24.691,240,2,Rodiflex-meloxican 15,mg- x 10 tbls,77092339
 false,2025-03-15T11:08:36.810,241,2,Metroxazide,7707019340907
 true,2025-03-15T11:17:21.517,242,1,Tinte palette surtido,770202968975677020293516537702029689756
 false,2025-03-15T11:24:02.732,243,1,Tinte palette surtido,9756-1653-1425-7169
+false,2025-03-15T13:38:31.399,244,2,Novoxican-meloxican 15,mg x 10 tabletas-novofar,7709225183057
+false,2025-03-15T14:02:07.076,245,2,Neumuc*jarabe*frasco*120ml*farma,7709587585063
+false,2025-03-15T14:05:09.820,246,2,Postday*0.75mg*caja*2 tabletas*lafrancol,7702870002728
+false,2025-03-15T14:07:22.838,247,2,Test*a-linstant* lg pharma,7707357200055
+false,2025-03-15T14:10:26.033,248,2,Dolinstan*ibuprofeno*jarabe*fco*120 ml*coaspharma,7709946708393
+false,2025-03-15T14:12:10.471,249,2,Clindabact*clot/clindam*caja*3 ovulos*tridex,7707263007755
+false,2025-03-15T14:14:00.328,250,2,Tor*crema*tubo*10 gramos*blaskov,7702896000364
+false,2025-03-15T14:19:50.651,251,2,Diglufor*metformina*850mg*caja*30 tabletas*bioq,7707019481600
+false,2025-03-15T14:30:39.193,252,2,Sacrusyt*salbutamol*inh*faes farma,7707274721206
+false,2025-03-15T14:32:47.464,253,2,Mucotrop*jarabe niños*fco*120ml*anglopharma,7707035511077
+false,2025-03-15T14:35:42.945,254,2,Acetaminofen*jarabe*frasco*120 ml*laproff,7703038067269
+false,2025-03-15T14:47:38.884,255,2,Mieltertos- x 12 sobres,7707232095769
+false,2025-03-15T14:57:57.989,256,2,Pedialyte - surtido -abbott,750103396155775010339573767501033957369
+false,2025-03-15T15:06:12.560,257,2,Microgynon x 21 cap- tecnofarma,7896116860972
