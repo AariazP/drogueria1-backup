@@ -503,3 +503,9 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 3,false,12000.0,24000.0,502,312,CAJA
 9,false,4000.0,8000.0,503,312,BLISTER
 94,false,400.0,800.0,504,312,UNIDAD
+1,false,11200.0,17000.0,505,313,CAJA
+2,false,4200.0,8500.0,506,314,CAJA
+6,false,1400.0,3000.0,507,314,BLISTER
+5,false,1200.0,2500.0,508,315,CAJA
+2,false,1800.0,3500.0,509,316,CAJA
+5,false,2100.0,4200.0,510,317,CAJA
