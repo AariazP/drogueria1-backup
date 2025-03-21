@@ -668,3 +668,6 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 4,false,5000.0,10500.0,667,424,FRASCO
 1,false,15000.0,24000.0,668,425,CAJA
 22,false,1500.0,3000.0,669,425,UNIDAD
+1,false,12000.0,25000.0,670,426,CAJA
+3,false,4000.0,9000.0,671,426,BLISTER
+2,false,12500.0,25000.0,672,427,CAJA
