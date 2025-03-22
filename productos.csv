@@ -87,7 +87,7 @@ false,2025-03-13T12:35:25.363,85,1,Balance clinical  women 30 g- care- henkel,77
 false,2025-03-13T12:40:20.210,86,1,Balance cliinical invisible x 30 g - henkel,7702045697742
 false,2025-03-13T12:59:46.436,87,2,Next-gl caja x 8 cap -hc- clover,650240060083
 false,2025-03-13T13:04:34.004,88,1,Palette- color negro 1-0 ,7702045087895
-false,2025-03-13T13:07:58.552,89,1,Palette color castaño oscuro-4-0 ,7702045260298
+true,2025-03-13T13:07:58.552,89,1,Palette color castaño oscuro-4-0 ,7702045260298
 false,2025-03-13T13:44:00.709,90,2,Alopurinol 300 mg caja x 30 tabletas - menphis,7704412080867
 false,2025-03-13T13:47:47.455,91,2,Alopurinol 100 mg caja x 30 tabletas- menphis,7704412080607
 false,2025-03-13T13:50:43.682,92,2,Amlodipino 5 mg caja x 300 tabletas - laproff,7703038067429
@@ -240,7 +240,7 @@ false,2025-03-15T09:57:21.304,239,2,Reflexal-metacarbamol 750,mg- x 20 tbls- bio
 false,2025-03-15T10:50:24.691,240,2,Rodiflex-meloxican 15,mg- x 10 tbls,7709233974418
 false,2025-03-15T11:08:36.810,241,2,Metroxazide,7707019340907
 true,2025-03-15T11:17:21.517,242,1,Tinte palette surtido,770202968975677020293516537702029689756
-false,2025-03-15T11:24:02.732,243,1,Tinte palette surtido,9756-1653-1425-7169
+true,2025-03-15T11:24:02.732,243,1,Tinte palette surtido,9756-1653-1425-7169
 false,2025-03-15T13:38:31.399,244,2,Novoxican-meloxican 15,mg x 10 tabletas-novofar,7709225183057
 false,2025-03-15T14:02:07.076,245,2,Neumuc*jarabe*frasco*120ml*farma,7709587585063
 false,2025-03-15T14:05:09.820,246,2,Postday*0.75mg*caja*2 tabletas*lafrancol,7702870002728
@@ -472,3 +472,4 @@ false,2025-03-21T15:14:56.347,471,1,Papel hig*scott*rinde max*familia,7702425093
 false,2025-03-21T15:20:04.338,472,1,Papel hig*familia green* familia,7702026152604
 false,2025-03-21T15:22:20.997,473,1,Protectores*kotex*180 uds* colpapel,7702425530935
 false,2025-03-21T15:25:08.097,474,1,Protectores*nosotras*150 uds* familia,7702027044199
+false,2025-03-22T08:51:14.797,475,1,Tinte bigen*caoba oscuro,4987205932366
