@@ -720,3 +720,4 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 7,false,1800.0,2200.0,719,472,PAPEL
 1,false,15000.0,20000.0,720,473,PROTECTORES
 1,false,14000.0,18900.0,721,474,PROTECTORES
+1,false,12000.0,18900.0,722,475,CAJA
