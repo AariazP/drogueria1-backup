@@ -1067,3 +1067,6 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 3,false,1000.0,2000.0,1066,749,FRASCO
 2,false,1000.0,2500.0,1067,750,FRASCO
 3,false,3500.0,7000.0,1068,751,FRASCO
+10,false,200.0,500.0,1069,752,UNIDAD
+39,false,2000.0,2600.0,1070,753,BLISTER
+30,false,200.0,350.0,1071,754,UNIDAD
