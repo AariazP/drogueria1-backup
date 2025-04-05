@@ -1159,3 +1159,4 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 4,false,8500.0,12000.0,1158,840,POTE
 2,false,8500.0,12000.0,1159,841,POTE
 6,false,3000.0,4500.0,1160,842,POTE
+100,false,1500.0,3000.0,1161,843,GRUPO
