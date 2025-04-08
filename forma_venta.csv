@@ -1169,3 +1169,5 @@ cantidad,eliminado,precio_compra,precio_venta,id,producto_id,nombre
 2,false,2500.0,4300.0,1168,850,CREMA
 5,false,2500.0,4300.0,1169,851,CREMA
 2,false,2500.0,8000.0,1170,852,CREMA
+6,false,2500.0,4300.0,1171,853,CREMA
+3,false,2500.0,4300.0,1172,854,CREMA
